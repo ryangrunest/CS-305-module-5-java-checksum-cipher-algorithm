@@ -21,3 +21,10 @@ This project demonstrates how to generate a checksum (hash value) for a unique t
    - Return the data string, the name of the cipher algorithm, and the hash value to the browser.
 
 ## Example Output
+
+To view the hash, navigate to [https://localhost:8443/hash](https://localhost:8443/hash) in your browser.
+
+**Example input:**  
+`Ryan Grunest`
+
+**Example output:**
